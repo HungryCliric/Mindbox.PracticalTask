@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.PracticalTask.Console", "Mindbox.PracticalTask.Console\Mindbox.PracticalTask.Console.csproj", "{CF784AC2-7A15-4087-A73F-3BA9335E749D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.PracticalTask.Common", "Mindbox.PracticalTask.Common\Mindbox.PracticalTask.Common.csproj", "{7CEEF827-8DBC-468C-B1A4-F30848501764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.PracticalTask.Shapes", "Mindbox.PracticalTask.Shapes\Mindbox.PracticalTask.Shapes.csproj", "{A40603B7-9DD7-4B6E-BBEA-B5C787F004B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.PracticalTask.Tests", "Mindbox.PracticalTask.Tests\Mindbox.PracticalTask.Tests.csproj", "{9C8924A8-A0F5-47BC-BFD4-4212D752A475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.PracticalTask.SqlScript", "Mindbox.PracticalTask.SqlScript\Mindbox.PracticalTask.SqlScript.csproj", "{E56263C5-4462-427F-BEEF-32F4BBE37BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF784AC2-7A15-4087-A73F-3BA9335E749D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF784AC2-7A15-4087-A73F-3BA9335E749D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF784AC2-7A15-4087-A73F-3BA9335E749D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF784AC2-7A15-4087-A73F-3BA9335E749D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEEF827-8DBC-468C-B1A4-F30848501764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEEF827-8DBC-468C-B1A4-F30848501764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEEF827-8DBC-468C-B1A4-F30848501764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEEF827-8DBC-468C-B1A4-F30848501764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40603B7-9DD7-4B6E-BBEA-B5C787F004B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40603B7-9DD7-4B6E-BBEA-B5C787F004B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40603B7-9DD7-4B6E-BBEA-B5C787F004B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40603B7-9DD7-4B6E-BBEA-B5C787F004B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8924A8-A0F5-47BC-BFD4-4212D752A475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8924A8-A0F5-47BC-BFD4-4212D752A475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8924A8-A0F5-47BC-BFD4-4212D752A475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8924A8-A0F5-47BC-BFD4-4212D752A475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E56263C5-4462-427F-BEEF-32F4BBE37BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56263C5-4462-427F-BEEF-32F4BBE37BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56263C5-4462-427F-BEEF-32F4BBE37BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56263C5-4462-427F-BEEF-32F4BBE37BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
